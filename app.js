@@ -1,0 +1,1 @@
+console.log ('Hi, my name is Amber and I\'m 33 years old for less than 2 more weeks');
