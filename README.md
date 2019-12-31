@@ -1,0 +1,1 @@
+I will master these drills. I will feel comfortable discussing them, how they work and how I put them together.
